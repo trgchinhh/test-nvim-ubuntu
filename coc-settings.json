@@ -1,0 +1,29 @@
+{
+  "pyright": {
+    "disableOrganizeImports": false,
+    "inlayHints": {
+      "functionReturnTypes": false,
+      "variableTypes": false,
+      "parameterTypes": false
+    }
+  },
+  "suggest": {
+    "enablePreview": false,
+    "highlightMatched": false
+  },
+  "clangd.inlayHints.enable": false,
+  "inlayHints.enable": false,
+  "signature.enable": false,
+  "snippets.ultisnips.pythonPrompt": false,
+  "json.enable": false,
+  
+  "java.home": "C:\\Program Files\\Java\\jdk-24",
+  "java.import.gradle.enabled": true,
+  "java.import.maven.enabled": true,
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-24",
+      "path": "C:\\Program Files\\Java\\jdk-24"
+    }
+  ]
+}
